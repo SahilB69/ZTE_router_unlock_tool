@@ -52,7 +52,7 @@ usage: zte_factory_mode [-h] [--user USER] [--pass PASS] [--ip IP] [--port PORT]
 --port [PORT]         router http port (default: 80)  
  </pre>
   
-# Subcommands
+# Modes
 <pre>
  [telnet,serial]       supported commands
     telnet             control telnet services on/off
@@ -61,4 +61,4 @@ usage: zte_factory_mode [-h] [--user USER] [--pass PASS] [--ip IP] [--port PORT]
 # Tested Routers
   ZTE-F670L(HW v1.01), ZTE-F670L(HW v1.05), ZTE-F670L(HW v9.0)
 # Notes
-* serial connection is still experimental
+* serial connection mode is still experimental
