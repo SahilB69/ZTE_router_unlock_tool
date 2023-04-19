@@ -5,13 +5,11 @@ This tool can be used to unlock most **ZTE ONU/ONT router-modem** combos and obt
 It works by exploiting **factory_mode_auth** on ZTE routers.  
 It puts the router into **telnet_factory_mode** with default factory mode credentials and obtain the randomly generated user/pass for telnet. 
 # Requirements
--Python 3.7+  
--python3-pip  
--pip3 modules:
+* Python 3.7+  
+* python3-pip  
+* pip3 modules :
 <pre>
- requests 2.28.2  
- pycryptodome 3.16.0    
- pyinstaller 5.7.0
+ requests v2.28.2, pycryptodome v3.16.0, pyinstaller v5.7.0
   </pre>
 # Installation
 clone the repo and cd into it
