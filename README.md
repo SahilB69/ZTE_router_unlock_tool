@@ -18,7 +18,7 @@ python3 zte_factory_mode.py --user "USERNAME" --pass "PASSWORD" --ip "IP" --port
 
 # Options
 <pre>
-usage: zte_factorymode [-h] [--user USER] [--pass PASS] [--ip IP] [--port PORT] {telnet,serial}
+usage: zte_factory_mode [-h] [--user USER] [--pass PASS] [--ip IP] [--port PORT] {telnet,serial}
 
 -h, --help            show this help message and exit  
 
