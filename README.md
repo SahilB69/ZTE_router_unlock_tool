@@ -1,7 +1,7 @@
 # ZTE_router_unlock_tool
 
 # Description
-This tool can be used to unlock most **ZTE ONU/ONT router-modem** combos and obtain a completely functional root shell via telnet on port 23.  
+This tool can be used to unlock most **ZTE ONU/ONT routers** and obtain a completely functional root shell via telnet on port 23.  
 It works by exploiting **factory_mode_auth** on ZTE routers.  
 It puts the router into **telnet_factory_mode** with default factory mode credentials and obtain the randomly generated user/pass for telnet. 
 # Requirements
