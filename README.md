@@ -17,7 +17,7 @@ clone the repo and cd into it
 git clone https://github.com/SahilB69/ZTE_router_unlock_tool.git
 cd ZTE_router_unlock_tool
 ```
-# Install Requirements
+# Install the Requirements
 ```
 sudo apt install python3
 ```
