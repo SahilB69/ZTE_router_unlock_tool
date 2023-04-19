@@ -281,7 +281,7 @@ def dealTelnet(ip, port, users, pws, action):
 
 
 def parseArgs():
-    parser = argparse.ArgumentParser(prog='zte_factroymode', epilog='https://github.com/SahilB69/ZTE_router_unlock_tool',
+    parser = argparse.ArgumentParser(prog='zte_factory_mode', epilog='https://github.com/SahilB69/ZTE_router_unlock_tool',
                                      formatter_class=argparse.ArgumentDefaultsHelpFormatter)
 
     parser.add_argument('--user', '-u', nargs='+', help='factorymode auth username', default=[
