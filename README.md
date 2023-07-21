@@ -59,6 +59,6 @@ usage: zte_factory_mode [-h] [--user USER] [--pass PASS] [--ip IP] [--port PORT]
     serial             control /proc/serial on/off
 </pre>
 # Tested Routers
-  ZTE-F670L(HW v1.01), ZTE-F670L(HW v1.05), ZTE-F670L(HW v9.0)
+  ZTE-F670L(HW v9.0+)
 # Notes
 * serial connection mode is still experimental
